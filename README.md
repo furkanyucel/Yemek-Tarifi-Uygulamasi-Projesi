@@ -22,7 +22,7 @@
 6. VSCode Terminal sekmesini aç ve açılan alana npm install yazarak node_modules paketinin kurulduğundan emin ol.
 7. Kurulum tamamlandığında Terminal alanına npm run dev yazarak projeni çalıştır.
 8. Terminal de Local:   http://localhost:5173/ benzeri bir link çıkacak. Buna tıklayarak projeyi chrome vb. browserda inceleyebileceksin.
-9. Repo'yu indirdiğim teşekkürler. Lütfen proje ile ilgili yorumlarını furkanyucelux@gmail.com mailimden bana bildir.
+9. Repo'yu indirdiğin için teşekkürler. Lütfen proje ile ilgili yorumlarını furkanyucelux@gmail.com mailimden bana bildir.
 
 ## Ekran Görüntüleri
 ![Anasayfa](screenshot.jpg)
