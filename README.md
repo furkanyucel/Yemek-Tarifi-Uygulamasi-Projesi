@@ -1,4 +1,4 @@
-#Yemek Tarifi Uygulaması Projesi
+# Yemek Tarifi Uygulaması Projesi
 
 ### Bu proje, Emin Başbayan'ın eğitimini vermiş olduğu React Kursu'ndaki ilk github projesidir. 
 
