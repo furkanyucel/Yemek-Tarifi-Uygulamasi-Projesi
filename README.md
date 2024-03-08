@@ -25,6 +25,8 @@
 9. Repo'yu indirdiğin için teşekkürler. Lütfen proje ile ilgili yorumlarını furkanyucelux@gmail.com mailimden bana bildir.
 
 ## Ekran Görüntüleri
+### Anasayfa
 ![Anasayfa](screenshot.jpg)
 
+### Yemek Tarifi Detaylı İnceleme
 ![Anasayfa](screenshot-2.png)
