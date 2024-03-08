@@ -26,3 +26,5 @@
 
 ## Ekran Görüntüleri
 ![Anasayfa](screenshot.jpg)
+
+![Anasayfa](screenshot-2.png)
