@@ -1,0 +1,18 @@
+.main {
+  background: url("https://images.unsplash.com/photo-1657143372753-53c875693c0e?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") center;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 4rem;
+  font-style: italic;
+  color: #f9f9f9;
+  text-shadow: 2px 2px #000;
+}
